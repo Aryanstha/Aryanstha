@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
 <h3 align="center">A passionate developer <a href="#"><img title="From Nepal" src="https://img.shields.io/badge/From%20-Nepal-red?colorA=%23ff0000&colorB=%23301f5b&style=for-the-badge"></a>.  I started my journey as a self-taught web developer right out of High School when I first discovered the biggest CMS in the industy, WordPress. Ever since I have fallen in love with web development and spend most of my days taking my craft to the next level. Now a days I tend to code all of my projects from scratch in order to deliver a unique experience to every company. Like many other people I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.</h3>
-<h>Some of my favorite things to do include:</h>
-<h>1. 1 on 1 tutoring on development.</h>
-<h>2. Contributing to open source projects.</h>
-<h>3. Learning modern standards and best practices of the industry.</h>
-<h>4. Testing on vulnerabilities of websites.</h>
+<h1>Some of my favorite things to do include:
+# 1. 1 on 1 tutoring on development.
+# 2. Contributing to open source projects.
+# 3. Learning modern standards and best practices of the industry.
+# 4. Testing on vulnerabilities of websites.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark&no-bg=true" alt="aryanstha" /></a> </p>
