@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Nepal.  I started my journey as a self-taught web developer right out of High School when I first discovered the biggest CMS in the industy, WordPress. Ever since I have fallen in love with web development and spend most of my days taking my craft to the next level. Now a days I tend to code all of my projects from scratch in order to deliver a unique experience to every company. Like many other people I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.</h3>
 <p>Some of my favorite things to do include:</p><br>
 <p> 1 on 1 tutoring on development.</p><br>
-<p><img src="https://img.icons8.com/fluency-systems-regular/48/000000/project-diagram.png"/>Contributing to open source projects.</p><br>
+<img src="https://img.icons8.com/fluency-systems-regular/48/000000/project-diagram.png"/><p>Contributing to open source projects.</p><br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark" alt="aryanstha" /></a> </p>
