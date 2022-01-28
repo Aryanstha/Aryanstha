@@ -1,36 +1,468 @@
-<h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
-<h3 align="center">A passionate developer from Nepal.</h3>
+<!DOCTYPE html>
+<html class="no-js">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanstha" alt="aryanstha" /></a> </p>
+<head>
+  <!-- Add Your Title -->
+  <title>Aryan</title>
 
-- 🌱 I’m currently learning **Block chain and ML**
+  <!-- All Meta Tags -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aryanstha/Aryansth.github.io](https://github.com/Aryanstha/Aryansth.github.io)
+  <!-- All Link tags -->
+  <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-144x144-precomposed.png">
+  <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Amaranth' rel='stylesheet'>
+  <link rel="stylesheet" href="css/normalize.min.css">
+  <link rel="stylesheet" href="css/main.css">
 
-- 💬 Ask me about **python, JS, c and C++**
+  <!-- All script tags -->
+ <script>document.write('<script src="js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="js/vendor/jquery.hashchange.min.js"></script>
+  <script src="js/vendor/jquery.easytabs.min.js"></script>
+  <script src="js/main.js"></script>
+  
+</head>
 
-- 📫 How to reach me **ajty97921@gmail.com**
+<!-- Start of Body Tag -->
 
-- 📄 Know about my experiences [aryansth.w3spaces.com](aryansth.w3spaces.com)
+<body class="bg-fixed bg-1">
+  <div class="main-container">
+    <div class="main wrapper clearfix">
 
-- ⚡ Fun fact **I think I am more obsess in coding.**
+      <!-- Header Start -->
+      <header id="header">
+        <div id="logo">
+          <h6>
+            Aryan
+          </h6>
+          <h4>
+           Front End Developer, Ethical Hacker, Penetration Tester.
+            </h4>
+        </div>
+      </header>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/ajaystha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/ajaystha" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stack" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/beatboxer.aryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/beatboxer.aryan/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/er" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="er" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/top" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="top" height="30" width="40" /></a>
-</p>
+      <!-- QUote -->
+      <header id="header">
+        <div id="helloworld">
+          <h2>
+            while(!(succeed = try());
+          </h2>
+        </div>
+      </header>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+      <!-- Main Tab Container -->
+      <div id="tab-container" class="tab-container">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ajty97921p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ajty97921p" /></a></p><br><br>
+        <!-- Tab List -->
+        <ul class='etabs'>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanstha&show_icons=true&locale=en&layout=compact" alt="aryanstha" /></p>
+          <li class='tab' id="tab-about">
+            <a href="#about">
+              <i class="icon-user"></i>
+              <span>
+                About Me
+              </span>
+            </a>
+          </li>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanstha&show_icons=true&locale=en" alt="aryanstha" /></p>
+          <li class='tab'>
+            <a href="#resume">
+              <i class="icon-file-text"></i>
+              <span>
+                Skills
+              </span>
+            </a>
+          </li>
+
+          <li class='tab'>
+            <a href="#portfolio">
+              <i class="icon-heart"></i>
+              <span>
+                Projects
+              </span>
+            </a>
+          </li>
+
+          <li class='tab'>
+            <a href="#contact">
+              <i class="icon-envelope"></i>
+              <span>
+                Contact
+              </span>
+            </a>
+          </li>
+
+        </ul>
+        <!-- End Tab List -->
+
+        <!-- ----------------------------------------------------------------------------------- -->
+        <!-- Code for differents Tabs strat from here. -->
+        <div id="tab-data-wrap">
+
+          <!-- About Tab Data -->
+          <div id="about">
+            <section class="clearfix">
+              <div class="g2">
+                <div class="photo">
+                  <img src="./images/my.jpg" alt="Your alt text">
+                </div>
+                <div class="info">
+                  <h2>
+                    <p></p>
+                    Aryan
+                  </h2>
+                  <h4>
+                    Shaping Your Security.
+                  </h4>
+                  <p>
+                    Front End Developer, Ethical Hacker, Penetration Tester.
+                  </p>
+                </div>
+              </div>
+
+              <div class="g1">
+                <div class="main-links sidebar">
+                  <ul>
+                    <li>
+                      <a href="#resume">
+                        View My Skills
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#portfolio">
+                        View My Projects
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#contact">
+                        Hire me for your next project
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="break">
+              </div>
+              <div class="contact-info">
+                <div class="g1">
+                  <div class="item-box clearfix">
+                    <i class="icon-envelope"></i>
+                    <div class="item-data">
+                      <h3>
+                        <a href="mailto:ajty97921@gmail.com">
+                          ajty97921@gmail.com
+                        </a>
+                      </h3>
+                      <p>
+                        Email Address
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="g1">
+                  <div class="item-box clearfix">
+                    <i class="icon-facebook"></i>
+                    <div class="item-data">
+                      <h3>
+                        <a href="http://fb.me/your-Username">
+                          Facebook
+                        </a>
+                      </h3>
+                      <p>
+                        click here
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="g1">
+                  <div class="item-box clearfix">
+                    <i class="icon-twitter"></i>
+                    <div class="item-data">
+                      <h3>
+                        <a href="http://github.com/aryanstha">
+                          Github
+                        </a>
+                      </h3>
+                      <p>
+                        click here
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+          <!-- End About Tab Data -->
+          <!-- ----------------------------------------------------------------------------------- -->
+          <!-- skills Tab Data -->
+          <div id="resume">
+            <section class="clearfix">
+              <div class="g2">
+                <h3>
+                  Programming
+                </h3>
+                <div class="meter emerald">
+                  <span style="width: 90%">
+                    <span>
+                      Html/CSS
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 90%">
+                    <span>
+                      C
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 70%">
+                    <span>
+                      JavaScript
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 65%">
+                    <span>
+                      Swift
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 85%">
+                    <span>
+                      Python
+                    </span>
+                  </span>
+                </div>
+                <div class="break"></div>
+              </div>
+
+              <div class="g1">
+                <h3>
+                  Skills
+                </h3>
+                <div class="meter emerald">
+                  <span style="width: 70%">
+                    <span>
+                      Responsive Web Designer
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 85%">
+                    <span>
+                      Front-end Developer
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 80%">
+                    <span>
+                      Ethical Hacker
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 90%">
+                    <span>
+                      Pentrestion Tester
+                    </span>
+                  </span>
+                </div>
+                <div class="meter emerald">
+                  <span style="width: 65%">
+                    <span>
+                      N/A
+                    </span>
+                  </span>
+                </div>
+              </div>
+
+              <div class="g2">
+                <h3>
+                  Hobbies
+                </h3>
+                <span class="label label-info">Making Beat</span>
+                <span class="label label-info">Beatboxing</span>
+                <span class="label label-info">Videography</span>
+                <span class="label label-info">N/A</span>
+              </div>
+            </section>
+          </div>
+
+          <!-- End skills Tab Data -->
+          <!-- ----------------------------------------------------------------------------------- -->
+          <!-- Projects Tab Data -->
+          <div id="portfolio">
+            <section class="clearfix">
+              <div class="project-section">
+                <div class="project-container">
+                  <div class="project-img-container" >
+                    <img src="https://user-images.githubusercontent.com/67673221/122740022-4ab7e500-d2a3-11eb-95ca-25ea84d8a02b.JPG" alt="clock">
+                  </div>
+                    <a href="https://aryanstha.github.io/Digital-Clock/">
+                  <p class="project-title">Digital Clock</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container">
+                    <img src="https://user-images.githubusercontent.com/67673221/122596812-27661d80-d08a-11eb-9f6a-49b575ba35b1.JPG" alt="calculator">
+                  </div>
+                    <a href="https://aryanstha.github.io/calculator-wth-html-and-css/">
+                  <p class="project-title">Calculator</p>
+                        </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container">
+                    <img src="https://user-images.githubusercontent.com/67673221/140083820-da42d003-607c-4dcc-aa95-2f4367e3166d.JPG" alt="Artist Portfolio">
+                  </div>
+                    <a href="https://aryanstha.github.io/Artist-portfolio/">
+                  <p class="project-title">Artist Portfolio</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container" >
+                    <img src="https://user-images.githubusercontent.com/67673221/140084676-6bb48154-a78b-496c-98af-565054309015.JPG" alt="game">
+                  </div>
+                    <a href="https://aryanstha.github.io/Tic-Tac-Toe/">
+                  <p class="project-title">Tic tac toe</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container" >
+                    <img src="https://user-images.githubusercontent.com/67673221/140085767-d744f5da-113b-4799-968f-08bbbf10b153.JPG" alt="online shopping">
+                  </div>
+                    <a href="https://aryanstha.github.io/ChudamaniEmporium/">
+                  <p class="project-title">Chudamani Emporium</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container">
+                    <img src="https://user-images.githubusercontent.com/67673221/140088480-6d24937e-ac18-40d2-9212-d42d76061017.JPG" alt="Scanner">
+                  </div>
+                    <a href="https://aryanstha.github.io/Qr-code-with-html-and-js/">
+                  <p class="project-title">QR Code builder</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container">
+                    <img src="https://user-images.githubusercontent.com/67673221/120105948-bf06d900-c17a-11eb-8b39-f1a968ec441c.JPG" alt="Robot">
+                  </div>
+                    <a href="https://github.com/Aryanstha/arduino-robot-beginer-guide">
+                  <p class="project-title">Arduino Robot</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container" >
+                    <img src="https://user-images.githubusercontent.com/67673221/119250958-673d0080-bbc3-11eb-8d80-d3a6c1d3e621.JPG" alt="project image">
+                  </div><a href="https://aryanstha.github.io/Sample-website/">
+                  <p class="project-title">Fre4k</p>
+                    </a>
+                </div>
+                <div class="project-container">
+                  <div class="project-img-container" >
+                    <img src="https://user-images.githubusercontent.com/67673221/140288669-a9ad5cc6-e8fc-44f5-96ba-738dc07ea329.JPG" alt="project image">
+                  </div>
+                    <a href="https://aryanstha.github.io/-Music-Pads/">
+                  <p class="project-title">Music Pads</p>
+                    </a>
+                </div>
+              </div>
+              <div id="modal-wrapper" class="modal">
+
+                <form class="modal-content animate">
+
+                  <div class="imgcontainer">
+                    <span onclick="document.getElementById('modal-wrapper').style.display='none'" class="close" title="Close PopUp">&times;</span>
+                    <img src="images/floor.jpg" alt="project" class="avatar">
+                    <h1 class="project_details" style="text-align:center">Project Details</h1>
+                  </div>
+
+                  <div class="container">
+                    <input type="text" placeholder="Project Name" name="uname" readonly>
+                    <textarea class="project_description" rows="3" placeholder="Project Description" readonly></textarea>
+                    <input type="url" placeholder="Project Link"readonly>
+                    <input type="text" placeholder="Languages used" readonly>
+                    <button class="project_submit" type="submit">Submit</button>
+                  </div>
+
+                </form>
+
+              </div>
+            </section>
+          </div>
+          <!-- End Projects tab -->
+          <!-- ----------------------------------------------------------------------------------- -->
+          <!-- Contact Tab Data -->
+          <form action="https://formspree.io/f/xpzkegwo" method="post">
+          <div id="contact">
+            <section class="clearfix">
+              <div class="g1">
+                <div class="sny-icon-box">
+                  <div class="sny-icon">
+                    <i class="icon-globe"></i>
+                  </div>
+                    
+                  <div class="sny-icon-content">
+                    <h4>
+                      Your name
+                    </h4>
+                    <p>  
+                     <input placeholder="Type here" name="first and last name" type="text"> 
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="g1">
+                <div class="sny-icon-box">
+                  <div class="sny-icon">
+                    <i class="icon-phone"></i>
+                  </div>
+                  <div class="sny-icon-content">
+                    <h4>
+                      E-mail
+                    </h4>
+                    <p>
+                     <input type="email" name="_replyto" placeholder="Enter e-mail"> 
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="g1">
+                <div class="sny-icon-box">
+                  <div class="sny-icon">
+                    <i class="icon-user"></i>
+                  </div>
+                  <div class="sny-icon-content">
+                    <h4>
+                      Message
+                    </h4>
+                    <p>
+                     <input type="text" name="message"placeholder="Type here">
+                    </p>
+                  </div>
+                    <button class="btn">Send</button>
+                </div>
+              </div>
+              <div class="break"></div>
+            </section>
+          </div>
+                </form>
+          <!-- End Contact Data -->
+          <!-- ----------------------------------------------------------------------------------- -->
+          </div>
+        </div>
+      </div>
+    </div>
+    
+</body>
+
+</html>
