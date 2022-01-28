@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Block chain and ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aryanstha/Aryansth.github.io](https://github.com/Aryanstha/Aryansth.github.io)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Aryanstha/Aryansth.github.io">Click Here.</a>
 
 - 💬 Ask me about **python, JS, c and C++**
 
-- 📫 How to reach me **ajty97921@gmail.com**
+- 📫 How to reach me **<a href="mailto:ajty97921@gmail.com">Click Here.</a>**
 
 - 📄 Know about my experiences <a href="https://aryansth.w3spaces.com/">Click Here.</a>
 
