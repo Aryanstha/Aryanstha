@@ -7,7 +7,7 @@
 <p>4. Testing on vulnerabilities of websites.</p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark" alt="aryanstha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark&no-bg=true" alt="aryanstha" /></a> </p>
 - 🌱 I’m currently learning **Block chain and ML**
 
 - 👨‍💻 All of my projects are available at <a href="https://aryanstha.github.io/Aryansth.github.io/">Click Here.</a>
