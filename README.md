@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
 <h3 align="center">A passionate developer from Nepal.  I started my journey as a self-taught web developer right out of High School when I first discovered the biggest CMS in the industy, WordPress. Ever since I have fallen in love with web development and spend most of my days taking my craft to the next level. Now a days I tend to code all of my projects from scratch in order to deliver a unique experience to every company. Like many other people I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.</h3>
 <p>Some of my favorite things to do include:</p><br>
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="24" height="24"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#e67e22"><path d="M86,21.5c-15.83216,0 -28.66667,12.8345 -28.66667,28.66667c0,15.83216 12.8345,28.66667 28.66667,28.66667c15.83216,0 28.66667,-12.8345 28.66667,-28.66667c0,-15.83216 -12.8345,-28.66667 -28.66667,-28.66667zM86,100.33333c-21.52867,0 -64.5,10.80733 -64.5,32.25v17.91667h129v-17.91667c0,-21.44267 -42.97133,-32.25 -64.5,-32.25z"></path></g></g></svg>
 <p> 1 on 1 tutoring on development.</p><br>
-<p>Contributing to open source projects.</p><br>
+<p><img src="https://img.icons8.com/fluency-systems-regular/48/000000/project-diagram.png"/>Contributing to open source projects.</p><br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark" alt="aryanstha" /></a> </p>
