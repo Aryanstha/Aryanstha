@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67673221/151652901-a5c7293e-b868-4b7b-9c78-6d7a4be49c0a.png?raw=true" width="500" height="320" />
 <h3 align="center">A passionate developer <a href="#"><img title="From Nepal" src="https://img.shields.io/badge/From%20-Nepal-red?colorA=%23ff0000&colorB=%23301f5b&style=for-the-badge"></a>.  I started my journey as a self-taught web developer right out of High School when I first discovered the biggest CMS in the industy, WordPress. Ever since I have fallen in love with web development and spend most of my days taking my craft to the next level. Now a days I tend to code all of my projects from scratch in order to deliver a unique experience to every company. Like many other people I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.</h3>
 <h4>Some of my favorite things to do include:</h4>
   <p> 1. 1 on 1 tutoring on development.</p>
