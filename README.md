@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
 
 <img align="right" alt="GIF" src="https://github.com/Aryanstha/Aryanstha/blob/main/R.gif" width="400" height="320" />
-<h3 align="center">A passionate developer <a href="#"><img title="From Nepal" src="https://img.shields.io/badge/From%20-Nepal-red?colorA=%23ff0000&colorB=%23301f5b&style=for-the-badge"></a>.  I started my journey as a self-taught web developer right out of High School when I first discovered the biggest CMS in the industy, WordPress. Ever since I have fallen in love with web development and spend most of my days taking my craft to the next level. Now a days I tend to code all of my projects from scratch in order to deliver a unique experience to every company. Like many other people I enjoy spending my free time increasing my knowledge of Web Development and building new and challenging projects.</h3>
+<h3 align="center">A passionate developer <a href="#"><img title="From Nepal" src="https://img.shields.io/badge/From%20-Nepal-red?colorA=%23ff0000&colorB=%23301f5b&style=for-the-badge"></a>, spend most of my time taking my craft to the next level. Now a days I am focusing on AI, ML and Blockchain. Like many other people I enjoy spending my free time increasing my knowledge and building new and challenging projects.</h3>
 <h4>Some of my favorite things to do include:</h4>
   <p> 1. 1 on 1 tutoring on development.</p>
   <p> 2. Contributing to open source projects.</p>
@@ -10,7 +10,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark&no-bg=true" alt="aryanstha" /></a> </p>
-- 🌱 I’m currently learning **Block chain and ML**
+- 🌱 I’m currently learning ** AI, ML and BlockChain**
 
 - 👨‍💻 All of my projects are available at <a href="https://aryanstha.github.io/Aryansth.github.io/">Click Here.</a>
 
