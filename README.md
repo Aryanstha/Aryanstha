@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=paulodhiambo&color=00cf00)
 
 <img align="right" alt="GIF" src="https://github.com/Aryanstha/Aryanstha/blob/main/R.gif" width="400" height="320" />
 <h3 align="center">A passionate developer <a href="#"><img title="From Nepal" src="https://img.shields.io/badge/From%20-Nepal-red?colorA=%23ff0000&colorB=%23301f5b&style=for-the-badge"></a>, spend most of my time taking my craft to the next level. Now a days I am focusing on AI, ML and Blockchain. Like many other people I enjoy spending my free time increasing my knowledge and building new and challenging projects.</h3>
