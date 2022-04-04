@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanstha&show_icons=true&locale=en&layout=compact" alt="aryanstha" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=onedark_show_icons=true&locale=en" alt="aryanstha" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=onedark_show_icons=true&locale=en" alt="Aryanstha" /></p>
 
 
