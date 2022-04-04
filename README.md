@@ -39,7 +39,7 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ajty97921p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ajty97921p" /></a></p><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryanstha&show_icons=true&locale=en&layout=compact" alt="aryanstha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={Aryanstha}" alt="aryanstha" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=onedark_show_icons=true&locale=en" alt="Aryanstha" /></p>
 
