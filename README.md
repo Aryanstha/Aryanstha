@@ -41,7 +41,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanstha" alt="aryanstha" /></p>
 
-<p><imag align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryanstha&theme=vue" alt="aryanstha"/></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryanstha&theme=vue" alt="aryanstha"/></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=onedark_show_icons=true&locale=en" alt="Aryanstha" /></p>
 
