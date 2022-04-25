@@ -12,13 +12,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark&no-bg=true" alt="aryanstha" /></a> </p>
 - 🌱 I’m currently learning ** AI, ML and BlockChain**
 
-- 👨‍💻 All of my projects are available at <a href="https://aryanstha.github.io/Aryansth.github.io/">Click Here.</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Aryansth/">Click Here.</a>
 
 - 💬 Ask me about **Python, JS, C and C++**
 
 - 📫 How to reach me **<a href="mailto:ajty97921@gmail.com">Click Here.</a>**
 
-- 📄 Know about my experiences <a href="https://aryansth.w3spaces.com/">Click Here.</a>
+- 📄 Know about my experiences <a href="https://aryanstha.github.io/">Click Here.</a>
 
 - ⚡ Fun fact **I do programming not because I expect to get paid or adulation by the public,but because it's fun to program❤️**
 
@@ -41,8 +41,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanstha&show_icons=true&locale=en&layout=compact" alt="aryanstha" /></p>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryanstha&theme=vue" alt="aryanstha"/></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanstha&theme=vue" alt="aryanstha"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=onedark_show_icons=true&locale=en" alt="Aryanstha" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanstha&theme=onedark_show_icons=true&locale=en" alt="Aryanstha" /></p>
 
 
