@@ -11,8 +11,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark&no-bg=true" alt="aryanstha" /></a> </p>
 
-<h3 align="left"><img align="left" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />Codewars Profile Badges:</h3>
-<p><img align="left" src="https://www.codewars.com/users/Aryanstha/badges/large" alt="aryanstha" /></p>
+<h3 align="left"><img align="left" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />Codewars Profile Badges:</h3><br>
+<p><img align="left" src="https://www.codewars.com/users/Aryanstha/badges/mini" alt="aryanstha" /></p><br>
 
 - 🌱 I’m currently learning ** AI, ML and BlockChain**
 
