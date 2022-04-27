@@ -15,7 +15,7 @@
 <p><img align="left" src="https://www.codewars.com/users/Aryanstha/badges/small" alt="aryanstha" /></p><br>
 
 <h3 align="left">HackerRank Badges:</h3><br>
-<img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/bg.png?raw=true"/>
+<p><img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/bg.png?raw=true" height="80" width="170"/></p><br>
 
 - 🌱 I’m currently learning ** AI, ML and BlockChain**
 
