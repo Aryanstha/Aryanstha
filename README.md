@@ -7,9 +7,13 @@
   <p> 2. Contributing to open source projects.</p>
   <p> 3. Learning modern standards and best practices of the industry.</p>
   <p> 4. Testing on vulnerabilities of websites.</p>
+  
+  ---
+[![](https://visitcount.itsvg.in/api?id=Aryanstha&icon=9&color=6)](https://visitcount.itsvg.in)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=onedark&no-bg=true" alt="aryanstha" /></a> </p>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <h3 align="left">HackerRank Badges:</h3>
 <p><img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/bg.png?raw=true" height="80" width="170"/></p><br><br><br>
@@ -70,11 +74,11 @@
 <h3 align="left">Other Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanstha&show_icons=true&locale=en&layout=compact" alt="aryanstha" /></p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aryanstha&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanstha&show_icons=true&locale=en" alt="aryanstha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanstha&" alt="aryanstha" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ajty97921p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ajty97921p" /></a></p><br><br>
