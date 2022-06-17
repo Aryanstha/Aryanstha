@@ -12,7 +12,7 @@
 
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryanstha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=aryanstha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 <h3 align="left">HackerRank Badges:</h3>
 <p><img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/bg.png?raw=true" height="80" width="170"/></p><br><br><br>
@@ -74,9 +74,9 @@
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryanstha&theme=jolly&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aryanstha&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 <h3 align="left">Support:</h3>
