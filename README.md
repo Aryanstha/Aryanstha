@@ -20,7 +20,15 @@
 
 
 <h3 align="left">Codewars Profile Badges:</h3>
-<p><img align="left" src="https://www.codewars.com/users/Aryanstha/badges/small" alt="aryanstha"/></p><br>
+<p><img align="left" src="https://www.codewars.com/users/Aryanstha/badges/small" alt="aryanstha"/></p><be>
+
+<!-- Begin: HubSpot Academy - Digital Marketing  Badge -->
+<div class='academy-badge'>
+<a href='http://academy.hubspot.com/certification' title='Digital Marketing '>
+<img src='https://hubspot-credentials-na1.s3.amazonaws.com/prod/badges/user/eda853c282e64d1a80ec5d97116dc35e.png' />
+</a>
+</div>
+<!-- End: HubSpot Academy - Digital Marketing  Badge -->
 
 
 
