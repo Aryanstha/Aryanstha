@@ -10,10 +10,6 @@
   ---
 [![](https://visitcount.itsvg.in/api?id=Aryanstha&icon=9&color=6)](https://visitcount.itsvg.in)
 
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryanstha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 <h3 align="left">HackerRank Badges:</h3>
 <p><img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/bg.png?raw=true" height="80" width="170"/></p><br><br><br>
 
@@ -24,7 +20,7 @@
 
 - 🌱 I’m currently learning ** AI, ML and BlockChain**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Aryansth/">Click Here.</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Aryanstha/">Click Here.</a>
 
 - 💬 Ask me about **Python, JS, C and C++**
 
