@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=Aryanstha&icon=9&color=6)](https://visitcount.itsvg.in)
 
 <h3 align="left">HackerRank Badges:</h3>
-<p><img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/bg.png?raw=true" height="80" width="170"/></p><br><br><br>
+<p><img align="left" src="https://my.spline.design/roomrelaxingcopy-72cff790bd48f65ae9ed878b72a53751/" height="80" width="170"/></p><br><br><br>
 
 
 
