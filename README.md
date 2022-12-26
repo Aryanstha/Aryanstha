@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Shrestha.</h1>
-<img align="right" alt="GIF" src="https://github.com/Aryanstha/Aryanstha/blob/main/aj.png?raw=true" width="900" height="420" />
 <h3 align="center">A creative programmer <a href="#"><img title="From Nepal" src="https://img.shields.io/badge/From%20-Nepal-red?colorA=%23ff0000&colorB=%23301f5b&style=for-the-badge"></a>, spend most of my time taking my craft to the next level. Now a days I am focusing on AI, ML and Blockchain. Like many other people I enjoy spending my free time increasing my knowledge and building new and challenging projects.</h3>
+<img align="right" alt="GIF" src="https://github.com/Aryanstha/Aryanstha/blob/main/aj.png?raw=true" width="900" height="420" />
 <h4>Some of my favorite things to do include:</h4>
   <p> 1. 1 on 1 tutoring on development.</p>
   <p> 2. Contributing to open source projects.</p>
