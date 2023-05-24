@@ -52,3 +52,23 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ajty97921p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ajty97921p" /></a></p><br><br>
   
+ [Etchash] 
+wallet = 0x4F1578Af53C5C17Ec6E670F2F8021e4a97e9CbBe
+rigName = asus2
+pool1 =  etc-asia1.nanopool.org:10100
+pool2 = etc-eu2.nanopool.org:10100
+pool3 = etc-us-east1.nanopool.org:10100
+pool4 = etc-us-west1.nanopool.org:10100
+pool5 = etc-asia1.nanopool.org:10100
+pool6 = etc-jp1.nanopool.org:10100
+pool7 = etc-au1.nanopool.org:10100
+
+
+[RandomX] 
+wallet = 4B73WQfSB9ZJRz6bcbRwmJdyMGsJMi1DR7yyH7N9qBKNQCvN42f9Wk8NyXPFDsfC8dMrhiHB4Byim72eVs8Qqys2CFx4M4S
+rigName = asus
+pool1 = xmr-eu1.nanopool.org:10300
+pool2 = xmr-eu2.nanopool.org:10300
+pool3 = xmr-us-east1.nanopool.org:10300
+pool4 = xmr-us-west1.nanopool.org:10300
+pool5 = xmr-asia1.nanopool.org:10300
