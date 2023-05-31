@@ -46,7 +46,7 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Aryanstha&theme=jolly&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryanstha&theme=jolly&hide_border=true)<br/> 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanstha&show_icons=true&theme=jolly)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanstha&hide_progress=falses&show_icons=true&theme=jolly)
 
 
 <h3 align="left">Support:</h3>
