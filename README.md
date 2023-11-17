@@ -9,7 +9,7 @@
   
   ---
 [![](https://visitcount.itsvg.in/api?id=Aryanstha&icon=9&color=6)](https://visitcount.itsvg.in)
-<iframe src="https://thmar.netlify.app/" alt="TryHackMe">
+<iframe src="https://thmar.netlify.app/" alt="TryHackMe"></iframe>
 
 <h3 align="left">HackerRank Badges:</h3>
 <p><img align="left" src="https://github.com/Aryanstha/Aryanstha/blob/main/rank.png?raw=true" height="80" width="500"/></p><br><br><br>
