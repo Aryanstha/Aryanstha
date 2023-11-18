@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a passionate backend developer and cybersecurity enthusiast based in the beautiful landscapes of Nepal. With a deep love for solving complex problems and a keen interest in securing digital landscapes, I strive to bridge the gap between robust backend development and cutting-edge cybersecurity.
 
+# 🚀 What I Do
+Continuously enhancing my skills in backend development and staying at the forefront of cybersecurity trends. I aspire to contribute to open-source projects and collaborate with like-minded individuals.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aryan4589) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_shrestha.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-shrestha-93361b259) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aryanstha) 
